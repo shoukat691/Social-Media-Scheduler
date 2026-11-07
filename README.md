@@ -17,8 +17,8 @@ To keep things modern, fast, and reliable, I am using the following stack:
 * [x] Project architecture and folder structure setup.
 * [x] Modern Sign-in and Sign-up pages integrated with Supabase Auth.
 * [x] Custom UI styling and responsive layout.
-* [-] Social media API integrations (Twitter, LinkedIn, Facebook) — (Currently working on this!).
-* [-] Automated post scheduling dashboard and calendar view.
+* [ ] Social media API integrations (Twitter, LinkedIn, Facebook) — (Currently working on this!).
+* [ ] Automated post scheduling dashboard and calendar view.
 
 ---
 
