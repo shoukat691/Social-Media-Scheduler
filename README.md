@@ -1,4 +1,6 @@
 # Social-Media-Scheduler
+<img width="2880" height="1800" alt="Dashboard" src="https://github.com/user-attachments/assets/20f4b1a3-4616-410b-9b1d-742947fb8fc3" />
+
 
 Hey everyone! I am currently building an open-source project—a simple and clean **Social Media Scheduler**. Managing posts across multiple platforms manually can be super tedious and time-consuming, so I wanted to build a tool that brings everything into one unified dashboard.
 
@@ -33,3 +35,4 @@ To keep things modern, fast, and reliable, I am using the following stack:
 If you like this idea or have suggestions to make it better, feel free to share your thoughts! You can also show your support by giving this repository a **Star**. 
 
 Thanks for stopping by!
+
